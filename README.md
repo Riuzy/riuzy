@@ -2,4 +2,4 @@ Hi there, I'm Rizky Muhammad Ristya! 👋<br>I am a passionate Informatics stude
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rizzkyymr) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rizzkyymr/) 
